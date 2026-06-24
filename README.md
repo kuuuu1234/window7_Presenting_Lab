@@ -287,6 +287,3 @@ dir
 
 
 
-## Disclaimer
-
-This repository is intended solely for educational and research purposes within legally authorized and isolated laboratory environments. The techniques demonstrated here should never be used against systems without explicit permission.
