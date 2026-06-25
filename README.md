@@ -247,7 +247,9 @@ dir
 **Screenshots:**
 
 ![System_Info](sysinfo.png)
-![get_uid](getuid.png)
+![get_uid](getuid.png)  
+![whoami](windows_shell.png)
+
 
 ---
 
